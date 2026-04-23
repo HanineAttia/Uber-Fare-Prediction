@@ -16,7 +16,7 @@ Streamlit application.
 ## 🚀 Demo
 
 ### Streamlit Application — Interactive Map & Real-time Fare Prediction
-![Streamlit App](image1.PNG)
+![Streamlit App](Uber_streamlit.PNG)
 
 ---
 
